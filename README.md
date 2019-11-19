@@ -1,1 +1,1 @@
-# atom-setup
+# Creating a flask app with Git version control. 
